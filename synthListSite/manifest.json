@@ -1,25 +1,24 @@
 {
     "name": "synthList PWA",
     "short_name": "SLPWA",
-    "icons":[
+    "start_url": "/",
+    "orientation": "portrait-primary",
+    "background_color": "#ffffff",
+    "theme_color": "transparent",
+    "description": "",
+    "scope": "/",
+    "icons": [
         {
-            "src": "icons/dummy192.png",
-            "sizes": "192x192",
-            "type": "image/png"
+        "src": "android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
         },
         {
-            "src": "icons/dummy512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        },
-        {
-            "src": "icons/masked_dummy.png",
-            "sizes": "192x192",
-            "type": "image/png",
-            "purpose": "maskable"
+        "src": "android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
         }
-    ],
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#ffffff"
+    ]
 }
