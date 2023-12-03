@@ -1,0 +1,12 @@
+{
+    "rank increase" : "ri",
+    "same rank" : "sr",
+    "rank decrease" : "rd",
+    "generic" : "g",
+    "special" : "s",
+    "s" : "special",
+    "g" : "generic",
+    "ri" : "rank increase",
+    "sr" : "same rank",
+    "rd" : "rank decrease"
+}
