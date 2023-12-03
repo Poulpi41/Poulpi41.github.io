@@ -1,6 +1,5 @@
 {
     "name": "synthList PWA",
-    "short_name": "SLPWA",
     "start_url": "https://poulpi41.github.io/synthListSite/index.html",
     "orientation": "portrait-primary",
     "background_color": "#ffffff",
@@ -18,7 +17,7 @@
         "src": "android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png",
-        "purpose": "maskable"
+        "purpose": "any maskable"
         }
     ]
 }
