@@ -1,7 +1,6 @@
 const cacheName = 'entireApp';
 
 const cacheAssets = [
-    "https://poulpi41.github.io/synthListSite/index.html",
     "/",
     '/index.html',
     '/css/treeView.css',
