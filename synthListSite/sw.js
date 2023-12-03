@@ -1,12 +1,17 @@
 const cacheName = 'entireApp';
 
 const cacheAssets = [
+    "https://poulpi41.github.io/synthListSite/index.html",
+    "/",
     '/index.html',
     '/css/treeView.css',
     '/js/main.js',
+    '/resources/',
+    '/resources/DQMJ2_InComon/',
+    '/resources/DQMJ2_InComon/images/',
+    'resources/DQMJ2/',
+    'resources/DQMJ2_Pro/',
     // DQMJ2
-    '/resources/DQMJ2_InComon/synthProp.json',
-    '/resources/DQMJ2_InComon/monstList.json',
     "/resources/DQMJ2/IDToMonster.jjson",
     "/resources/DQMJ2/monster_list.jjson",
     "/resources/DQMJ2/monsterToID.jjson",
@@ -16,6 +21,9 @@ const cacheAssets = [
     "/resources/DQMJ2_Pro/monster_list.json",
     "/resources/DQMJ2_Pro/monsterToID.json",
     "/resources/DQMJ2_Pro/synth.json",
+    // In Common
+    '/resources/DQMJ2_InComon/synthProp.json',
+    '/resources/DQMJ2_InComon/monstList.json',
     // the images
     "/resources/DQMJ2_InComon/images/aamon.png",
     "/resources/DQMJ2_InComon/images/abyss diver.png",

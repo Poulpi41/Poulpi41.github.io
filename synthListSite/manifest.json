@@ -1,7 +1,7 @@
 {
     "name": "synthList PWA",
     "short_name": "SLPWA",
-    "start_url": "/index.html",
+    "start_url": "/synthListSite/index.html",
     "orientation": "portrait-primary",
     "background_color": "#ffffff",
     "theme_color": "transparent",
