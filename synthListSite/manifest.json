@@ -1,6 +1,6 @@
 {
     "name": "synthList PWA",
-    "start_url": "https://poulpi41.github.io/synthListSite/index.html",
+    "start_url": "https://poulpi41.github.io/synthListSite/",
     "orientation": "portrait-primary",
     "background_color": "#ffffff",
     "theme_color": "transparent",
